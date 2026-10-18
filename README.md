@@ -1,3 +1,5 @@
+![ForeverRoute Community banner](assets/foreverroute-community-banner.webp)
+
 # ForeverRoute Community
 
 Welcome to the official community space for **ForeverRoute**, an independent leveling-route addon and Control Center for **World of Warcraft: Forever**.
@@ -56,3 +58,6 @@ Creator alias / credit (optional):
 6. Moderators can remove unsafe or off-topic content, and route creators remain responsible for their shared content.
 
 *ForeverRoute is an independent community project. World of Warcraft names, trademarks and game content belong to their respective rights holders.*
+
+
+[**Welcome discussion**](https://github.com/Deciwarrz/ForeverRoute-Community/discussions/1)
